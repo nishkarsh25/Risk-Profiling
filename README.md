@@ -1,4 +1,4 @@
-# Difficulty viewing large code files?
+## Difficulty viewing large code files?
 
 If you're having trouble viewing large code files on GitHub, you may find it helpful to download a ZIP file containing the entire repository. To do so, follow these steps:
 
